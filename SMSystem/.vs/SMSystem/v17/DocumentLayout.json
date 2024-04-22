@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\C# Full Course\\SMSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DECFF92D-9110-4D0C-B4D0-35EFE862C55C}|UI\\UI.csproj|d:\\dotnet\\c# full course\\smsystem\\ui\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECFF92D-9110-4D0C-B4D0-35EFE862C55C}|UI\\UI.csproj|solutionrelative:ui\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECFF92D-9110-4D0C-B4D0-35EFE862C55C}|UI\\UI.csproj|d:\\dotnet\\c# full course\\smsystem\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECFF92D-9110-4D0C-B4D0-35EFE862C55C}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECFF92D-9110-4D0C-B4D0-35EFE862C55C}|UI\\UI.csproj|d:\\dotnet\\c# full course\\smsystem\\ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DECFF92D-9110-4D0C-B4D0-35EFE862C55C}|UI\\UI.csproj|solutionrelative:ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5A6CD8-0DD2-41F6-A8F4-68537A293896}|DAL\\DAL.csproj|d:\\dotnet\\c# full course\\smsystem\\dal\\repositories\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5A6CD8-0DD2-41F6-A8F4-68537A293896}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\courserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422E4E0-E5D0-4C44-B38E-D75868F6227E}|Domin\\Domin.csproj|d:\\dotnet\\c# full course\\smsystem\\domin\\profiles\\coursesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422E4E0-E5D0-4C44-B38E-D75868F6227E}|Domin\\Domin.csproj|solutionrelative:domin\\profiles\\coursesprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422E4E0-E5D0-4C44-B38E-D75868F6227E}|Domin\\Domin.csproj|d:\\dotnet\\c# full course\\smsystem\\domin\\profiles\\testprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422E4E0-E5D0-4C44-B38E-D75868F6227E}|Domin\\Domin.csproj|solutionrelative:domin\\profiles\\testprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422E4E0-E5D0-4C44-B38E-D75868F6227E}|Domin\\Domin.csproj|d:\\dotnet\\c# full course\\smsystem\\domin\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422E4E0-E5D0-4C44-B38E-D75868F6227E}|Domin\\Domin.csproj|solutionrelative:domin\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5A6CD8-0DD2-41F6-A8F4-68537A293896}|DAL\\DAL.csproj|d:\\dotnet\\c# full course\\smsystem\\dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5A6CD8-0DD2-41F6-A8F4-68537A293896}|DAL\\DAL.csproj|solutionrelative:dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5A6CD8-0DD2-41F6-A8F4-68537A293896}|DAL\\DAL.csproj|d:\\dotnet\\c# full course\\smsystem\\dal\\repositories\\_absrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5A6CD8-0DD2-41F6-A8F4-68537A293896}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\_absrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA4BADAB-A6F2-4667-AF13-D4D2C462F446}|BLL\\BLL.csproj|d:\\dotnet\\c# full course\\smsystem\\bll\\courselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA4BADAB-A6F2-4667-AF13-D4D2C462F446}|BLL\\BLL.csproj|solutionrelative:bll\\courselogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B422E4E0-E5D0-4C44-B38E-D75868F6227E}|Domin\\Domin.csproj|d:\\dotnet\\c# full course\\smsystem\\domin\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B422E4E0-E5D0-4C44-B38E-D75868F6227E}|Domin\\Domin.csproj|solutionrelative:domin\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T12:36:29.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestProfile.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Profiles\\TestProfile.cs",
+              "RelativeDocumentMoniker": "Domin\\Profiles\\TestProfile.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Profiles\\TestProfile.cs",
+              "RelativeToolTip": "Domin\\Profiles\\TestProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:31:42.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Profiles\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "Domin\\Profiles\\StudentProfile.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Profiles\\StudentProfile.cs",
+              "RelativeToolTip": "Domin\\Profiles\\StudentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:31:19.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:28:52.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Domin\\Models\\Course.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Models\\Course.cs",
+              "RelativeToolTip": "Domin\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:14:48.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesProfile.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Profiles\\CoursesProfile.cs",
+              "RelativeDocumentMoniker": "Domin\\Profiles\\CoursesProfile.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Profiles\\CoursesProfile.cs",
+              "RelativeToolTip": "Domin\\Profiles\\CoursesProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:07:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\DAL\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\DAL\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "DAL\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:59:43.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\UI\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "UI\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\UI\\Controllers\\TestController.cs",
+              "RelativeToolTip": "UI\\Controllers\\TestController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:57:44.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseRepo.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\DAL\\Repositories\\CourseRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CourseRepo.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\DAL\\Repositories\\CourseRepo.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CourseRepo.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:51:24.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_AbsRepository.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\DAL\\Repositories\\_AbsRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\_AbsRepository.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\DAL\\Repositories\\_AbsRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\_AbsRepository.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwFEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:34:17.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseLogic.cs",
+              "DocumentMoniker": "D:\\DotNet\\C# Full Course\\SMSystem\\BLL\\CourseLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\CourseLogic.cs",
+              "ToolTip": "D:\\DotNet\\C# Full Course\\SMSystem\\BLL\\CourseLogic.cs",
+              "RelativeToolTip": "BLL\\CourseLogic.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:32:15.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

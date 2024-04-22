@@ -1,0 +1,12 @@
+D:\DotNet\C# Full Course\SMSystem\Domin\bin\Debug\net6.0\Domin.deps.json
+D:\DotNet\C# Full Course\SMSystem\Domin\bin\Debug\net6.0\Domin.dll
+D:\DotNet\C# Full Course\SMSystem\Domin\bin\Debug\net6.0\Domin.pdb
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\Domin.csproj.AssemblyReference.cache
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\Domin.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\Domin.AssemblyInfoInputs.cache
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\Domin.AssemblyInfo.cs
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\Domin.csproj.CoreCompileInputs.cache
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\Domin.dll
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\refint\Domin.dll
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\Domin.pdb
+D:\DotNet\C# Full Course\SMSystem\Domin\obj\Debug\net6.0\ref\Domin.dll

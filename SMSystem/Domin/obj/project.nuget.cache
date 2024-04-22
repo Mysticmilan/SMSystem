@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "WI17LGj6kSMdGIUM9AJxsAL38xl99voR4E0YKzbtlYW61DtoZ3gNtKGT8nkGJ8Re9A3e2NIdvbo8QA4tXrvVtw==",
+  "success": true,
+  "projectFilePath": "D:\\DotNet\\C# Full Course\\SMSystem\\Domin\\Domin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\milan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\milan\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\milan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\milan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
