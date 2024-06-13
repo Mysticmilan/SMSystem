@@ -2,4 +2,3 @@
 ## 3_Tier
 ## Generics
 ## AutoMapper
-## Sample
